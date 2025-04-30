@@ -66,7 +66,7 @@ In order for Teams Android Devices to enroll in AOSP Device Management successfu
    ![Screenshot of AOSP enrollment profile.](media/android-migration-guide/aosp-enrollment-profile.png)
 
 > [!NOTE]
-> An expired enrollment token prevents devices from completing a successful sign-in and blocks new devices from enrolling.
+> An expired enrollment token prevents devices from completing a successful sign-in and blocks new devices from enrolling. There can only be one Teams AOSP enrollment profile per tenant.
 
 6. Select **Next**.
 7. Review the profile and then select **Create**.
