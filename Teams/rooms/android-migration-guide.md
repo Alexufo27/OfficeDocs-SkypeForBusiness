@@ -95,6 +95,7 @@ If your organization uses [Conditional Access](/intune/intune-service/protect/co
 > The above compliance policy is just an example of conditions you can set, the full list of supported compliance conditions is available in [Supported Conditional Access and Intune device compliance policies](/microsoftteams/rooms/supported-ca-and-compliance-policies?tabs=mtr-a#supported-device-compliance-policies)
 > 
 > In step 10, selecting "All Devices" only assigns this compliance policy to all devices in your organization enrolled using AOSP DM. In most scenarios, this is acceptable as Teams Android devices are the first large group of devices using AOSP DM. If you have other AOSP DM enrolled devices, ensure you don't have conflicting compliance policies or assign your policies to groups of devices instead.
+> Currently Device Configuration Policies aren't supported for this devices.
 
 ## Step 3 - Considerations before deploying AOSP DM capable migration firmware
 
